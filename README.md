@@ -1,7 +1,14 @@
-# React Firebase Super Chat
+# React Firebase Chat
 
 A simple fullstack chat demo with React and Firebase. 
 
-Watch on full [React Firebase Chat Tutorial](https://youtu.be/zQyrwxMPm88) on YouTube. 
+## How to run the application
 
-[Live demo](https://fireship-demos.web.app/)
+Clone the repo
+```git clone https://github.com/vhalllive/React_Firebase_Chat.git```
+
+Open the folder in terminal 
+
+```npm install``` 
+
+```npm start```
