@@ -13,6 +13,8 @@ Open the folder in terminal
 
 ```npm start```
 
+## How to export and Host the application
+
 For production build
 
 ```npm build```
