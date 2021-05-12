@@ -12,3 +12,13 @@ Open the folder in terminal
 ```npm install``` 
 
 ```npm start```
+
+For production build
+
+```npm build```
+
+Upload the build folder to the Netlify / any server
+
+IMPORTANT : The domain should be added to the Firebase Auth 
+
+GOTO FIREBASE_CONSOLE -> AUTHENTICATION -> SIGNIN METHODS -> AUTHORIZED DOMAINS -> Add the domain -> Click ADD
